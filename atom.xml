@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>KEEPMOVING</title>
+  
+  <subtitle>杰</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://Marve1ous.cn/"/>
+  <updated>2018-04-22T03:26:33.938Z</updated>
+  <id>http://Marve1ous.cn/</id>
+  
+  <author>
+    <name>Marve1ous</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>happynewyear</title>
+    <link href="http://Marve1ous.cn/2018/02/01/happynewyear/"/>
+    <id>http://Marve1ous.cn/2018/02/01/happynewyear/</id>
+    <published>2018-02-01T05:23:06.000Z</published>
+    <updated>2018-04-22T03:26:33.938Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="新年好"><a href="#新年好" class="headerlink" title="新年好"></a>新年好</h1><h2 id="HAPPY-NEW-YEAR"><a href="#HAPPY-NEW-YEAR" class="headerlink" title="HAPPY NEW YEAR !"></a>HAPPY NEW YEAR !</h2><p><img src="/IMG/piggy_bank.png" width="200" height="200"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;新年好&quot;&gt;&lt;a href=&quot;#新年好&quot; class=&quot;headerlink&quot; title=&quot;新年好&quot;&gt;&lt;/a&gt;新年好&lt;/h1&gt;&lt;h2 id=&quot;HAPPY-NEW-YEAR&quot;&gt;&lt;a href=&quot;#HAPPY-NEW-YEAR&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Photoshop-4</title>
+    <link href="http://Marve1ous.cn/2017/11/08/ps-4/"/>
+    <id>http://Marve1ous.cn/2017/11/08/ps-4/</id>
+    <published>2017-11-08T11:22:26.000Z</published>
+    <updated>2018-04-22T01:59:26.732Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Photoshop教程四"><a href="#Photoshop教程四" class="headerlink" title="Photoshop教程四"></a>Photoshop教程四</h1><h2 id="导语"><a href="#导语" class="headerlink" title="导语"></a>导语</h2><p>本节课讲讲大家感兴趣的蒙版。蒙版分为图层蒙版，剪贴蒙版，矢量蒙版和快速蒙版。如果把不同图层理解为数张透明的玻璃纸重叠，那么蒙版是针对特定图层上额外覆盖的一层透明玻璃。玻璃被涂黑，则不显示图像；玻璃没擦干净，则有渐隐的效果；直到玻璃一尘不染，下方图像才完整呈现出来。<br><a id="more"></a><br>同时结合练习前面所学工具，完成一些图像合成。</p><h3 id="图层蒙版"><a href="#图层蒙版" class="headerlink" title="图层蒙版"></a>图层蒙版</h3><p>介绍：在不破坏图像的前提下，在显示和隐藏间过渡图像。该状态下的画笔，仅有灰阶颜色，即黑色遮住图像，白色显示图像，灰色半透明。创建选区后，新建图层蒙版，会遮住未选中区域，可理解为：蒙版“保护”选中区域，选区“破坏”选中区域。<br>新建图层蒙版：图层面板底部,添加后为透明蒙版（按住Alt添加为全黑蒙版）<br><img src="/IMG/ps4/1.png" alt=""><br><strong>注意：编辑蒙版选中的是蒙版，别选成图层了！</strong><br>快速蒙版： 按Q进入快速蒙版，将不透明度调为100%，涂抹成半透明粉红色，退出快速蒙版后，自动创建非涂抹区域选区，同样理解为保护选中区域。<br>创建剪贴蒙版：按住Alt，图形轮廓在下，花纹在上。</p><h3 id="矢量蒙版"><a href="#矢量蒙版" class="headerlink" title="矢量蒙版"></a>矢量蒙版</h3><p>矢量蒙版一般用于创建基于矢量形状的边缘清晰的效果，通常通过__实时__编辑路径来__实时__编辑矢量蒙版。<br>按住Ctrl点击蒙版按钮，即可添加矢量蒙版。<br><img src="/IMG/ps4/2.png" alt=""></p><h3 id="本节PDF文档下载"><a href="#本节PDF文档下载" class="headerlink" title="本节PDF文档下载"></a>本节PDF文档下载</h3><p><a href="/Doc/PS-4.pdf">Download</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Photoshop教程四&quot;&gt;&lt;a href=&quot;#Photoshop教程四&quot; class=&quot;headerlink&quot; title=&quot;Photoshop教程四&quot;&gt;&lt;/a&gt;Photoshop教程四&lt;/h1&gt;&lt;h2 id=&quot;导语&quot;&gt;&lt;a href=&quot;#导语&quot; class=&quot;headerlink&quot; title=&quot;导语&quot;&gt;&lt;/a&gt;导语&lt;/h2&gt;&lt;p&gt;本节课讲讲大家感兴趣的蒙版。蒙版分为图层蒙版，剪贴蒙版，矢量蒙版和快速蒙版。如果把不同图层理解为数张透明的玻璃纸重叠，那么蒙版是针对特定图层上额外覆盖的一层透明玻璃。玻璃被涂黑，则不显示图像；玻璃没擦干净，则有渐隐的效果；直到玻璃一尘不染，下方图像才完整呈现出来。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="PS教程" scheme="http://Marve1ous.cn/tags/PS%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Photoshop-3</title>
+    <link href="http://Marve1ous.cn/2017/11/08/ps-3/"/>
+    <id>http://Marve1ous.cn/2017/11/08/ps-3/</id>
+    <published>2017-11-08T10:45:45.000Z</published>
+    <updated>2018-04-22T01:59:26.731Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Photoshop教程三"><a href="#Photoshop教程三" class="headerlink" title="Photoshop教程三"></a>Photoshop教程三</h1><h2 id="导语"><a href="#导语" class="headerlink" title="导语"></a>导语</h2><p>本节课将对图层类型做说明，图层类型也是图层的一个属性，不同类型的图层在表示和功能上也有不同。知道它们的区别，你就能在图层面板中看懂复杂的图层关系。<br><a id="more"></a><br>通过选择工具以及上节课所学的钢笔工具建立选区，可仅针对选区内进行操作而不影响选区外的像素。比如你可以新建一层对选区填充或渐变颜色（G），或者对选区里的像素进行擦除（E），又或是用画笔工具（B）在选区中描绘你喜欢的形状……<br>本节课将进行第一次海报命题实战训练。按照确定关键词、头脑风暴想构图、寻找素材、软件制作这四步，通过前面的学习，你将获得一张合格的海报作品。</p><h3 id="图层（三）"><a href="#图层（三）" class="headerlink" title="图层（三）"></a>图层（三）</h3><p>图层类型：<br><img src="/IMG/ps3/1.png" alt=""></p><ol><li>背景图层：背景图层不可以调节图层顺序，永远在最下边，不可以调节不透明度和加图层样式，以及蒙版。可以使用画笔，渐变，图章和修饰工具。</li><li>普通图层：可以进行一切操作。</li><li>调整图层：可以不破坏原图的情况下，对图像进行色相，色阶，曲线等操作。</li><li>填充图层：填充图层也是一种带蒙版的图层。内容为纯色，渐变，和图案，可以转换成调整层，可以通过编辑蒙版，制作融合效果。</li><li>文字图层：通过文字工具，可以创建。文字层不可以进行滤镜，图层样式等的操作。</li><li>形状图层：可以通过形状工具和路径工具来创建，内容被保存在它的蒙版中。</li><li>智能对象：智能对象实际上是一个指向其它psd文件的一个指针，当我们更新源文件时，这种变化会自动反应到当前文件中。</li></ol><p><strong>智能对象</strong><br>含义：一种非破坏性编辑，包含栅格或矢量图像中图像数据的图层，保留了图像的源内容及其所有原始特性。<br><strong>比如缩小非智能对象后再放大，会出现锯齿，智能对象则不会。（注意，放大至超过原图，仍会变得模糊，因为计算出原本没有的数据肯定会有所偏差）</strong><br><strong>又比如对智能对象使用滤镜、调整饱和度、色阶，对原图均无影响，同时还能智能替换图片，方便套模板。</strong><br><img src="/IMG/ps3/2.png" alt=""><br>使用智能对象：<br>双击红色区域进入智能对象编辑，编辑完毕后保存，关闭即可<br><img src="/IMG/ps3/1.png" alt=""><br>创建智能对象：<br>1.使用“打开为智能对象”命令；<br>2.置入文件；<br>3.从 Illustrator 粘贴数据；<br>4.将一个或多个 Photoshop 图层转换为智能对象（避免组合过多，能使面板更清爽），例如将图层样式转换为图层。</p><h3 id="选区"><a href="#选区" class="headerlink" title="选区"></a>选区</h3><p>多种途径建立选区：选区、套索、魔棒、路径转选区、色彩范围、快速蒙版等，被选中的区域出现蚂蚁线<br>对图像全选 按住Ctrl点按图层略缩图<br>全选 Ctrl+A<br>取消选区 Ctrl+D<br>反向选区 Ctrl+Shift+I<br>前景色填充 Alt+delete<br>背景色填充 Ctrl+delete<br>路径转选区  Ctrl+Enter<br><strong>注意区别：【选择】—【变换选区】 与 快捷键Ctrl+T</strong></p><h3 id="画笔工具（B）"><a href="#画笔工具（B）" class="headerlink" title="画笔工具（B）"></a>画笔工具（B）</h3><p>调整画笔大小<br>调整笔触<br>调出画笔面板</p><h3 id="填充／渐变工具（G）"><a href="#填充／渐变工具（G）" class="headerlink" title="填充／渐变工具（G）"></a>填充／渐变工具（G）</h3><p>前景色／背景色<br>调整渐变颜色／不透明度</p><h3 id="橡皮擦工具（E）"><a href="#橡皮擦工具（E）" class="headerlink" title="橡皮擦工具（E）"></a>橡皮擦工具（E）</h3><p>&amp;背景橡皮擦</p><h3 id="本节PDF文档下载"><a href="#本节PDF文档下载" class="headerlink" title="本节PDF文档下载"></a>本节PDF文档下载</h3><p><a href="/Doc/PS-3.pdf">Download</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Photoshop教程三&quot;&gt;&lt;a href=&quot;#Photoshop教程三&quot; class=&quot;headerlink&quot; title=&quot;Photoshop教程三&quot;&gt;&lt;/a&gt;Photoshop教程三&lt;/h1&gt;&lt;h2 id=&quot;导语&quot;&gt;&lt;a href=&quot;#导语&quot; class=&quot;headerlink&quot; title=&quot;导语&quot;&gt;&lt;/a&gt;导语&lt;/h2&gt;&lt;p&gt;本节课将对图层类型做说明，图层类型也是图层的一个属性，不同类型的图层在表示和功能上也有不同。知道它们的区别，你就能在图层面板中看懂复杂的图层关系。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="PS教程" scheme="http://Marve1ous.cn/tags/PS%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Photoshop-2</title>
+    <link href="http://Marve1ous.cn/2017/10/15/ps-2/"/>
+    <id>http://Marve1ous.cn/2017/10/15/ps-2/</id>
+    <published>2017-10-15T15:15:45.000Z</published>
+    <updated>2018-04-22T01:59:26.731Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Photoshop教程二"><a href="#Photoshop教程二" class="headerlink" title="Photoshop教程二"></a>Photoshop教程二</h1><h2 id="导语"><a href="#导语" class="headerlink" title="导语"></a>导语</h2><p>本节课继续讲述__图层__的介绍和有关功能。其中，混合选项中不同的图层样式可用来做特效字，图层的混合模式让不同图层的组合有了新的呈现……这些功能平时使用频繁，大家多加练习就能掌握。<br><a id="more"></a><br>同时引入新的概念：__路径__。路径就像骨骼，你可以结合其他工具在骨骼上添加不同元素，让图像更丰满，而当路径转为选区后又能进行抠图……总之，路径的作用很重要。<br>通常用钢笔工具绘制路径，事实上，使用矩形工具、文字工具绘制出的图形、文字也是一种路径。专门针对路径调整的路径选择工具、直接选择工具区别于移动工具，大家要注意。<br>稍加注意，就知道这四类工具（划横线的）在同一栏，因此它们的共性较大。</p><p>此讲义不好理解，上课结合具体海报制作取舍讲。</p><h3 id="图层（二）"><a href="#图层（二）" class="headerlink" title="图层（二）"></a>图层（二）</h3><p>新建图层 Shift+Ctrl+N<br>删除图层 Delete<br>复制图层 Ctrl+J<br>合并图层 Ctrl+E<br>盖印图层（合并后新复制一层，原图层不变）Ctrl+Alt+ Shift+E<br>重命名图层 双击图层名称<br>图层样式 右键图层——【混合选项】<br>栅格化图层 右键图层——【栅格化图层】<br><strong>（栅格化：将矢量图转为位图）</strong><br>编组图层 Ctrl+G<br>创建剪贴蒙板：两图层之间按住Alt，填充层在上，轮廓层在下<br>修边 【图层】——【修边】</p><p>锁定图层：<br><img src="/IMG/ps2/1.png" alt=""></p><ol><li>锁定透明像素</li><li>锁定图像像素</li><li>锁定位置</li><li>锁定全部</li></ol><p>图层混合模式：<br><img src="/IMG/ps2/2.png" alt=""><br><a href="https://www.zhihu.com/question/27419883/answer/36699340" target="_blank" rel="noopener">https://www.zhihu.com/question/27419883/answer/36699340</a><br>这个得靠经验或者不断试错</p><p>图层样式<br><img src="/IMG/ps2/3.png" alt=""><br>隐藏／显示图层样式<br>添加／删除图层样式<br>“样式”面板中的应用<br>【图层】—【图层样式】—【缩放效果】</p><h3 id="路径"><a href="#路径" class="headerlink" title="路径"></a>路径</h3><p>含义：使用绘图工具创建的不可打印的矢量形状（贝塞尔曲线）。（瞎编的，差不多就那个意思）<br>作用：帮助用户进行精确定位和调整；创建不规则以及复杂的图像区域；创建选区并存储。<br>认识路径面板【窗口】—【路径】</p><h3 id="钢笔工具（P）"><a href="#钢笔工具（P）" class="headerlink" title="钢笔工具（P）"></a>钢笔工具（P）</h3><p><strong>锚点</strong><br>按住Ctrl变为直接选择工具，可移动锚点<br>按住Alt控制手柄，调整锚点的平滑弯曲度</p><h3 id="直接选择工具（A）"><a href="#直接选择工具（A）" class="headerlink" title="直接选择工具（A）"></a>直接选择工具（A）</h3><p>区别于移动工具（V），它只对路径起作用<br>在<img src="/IMG/ps2/4.png" alt="">下按住Alt，拖动路径即可复制路径</p><h3 id="矩形工具（U）"><a href="#矩形工具（U）" class="headerlink" title="矩形工具（U）"></a>矩形工具（U）</h3><p>按住Shift添加<br>按住Alt减去<br><strong>注意：形状在图层面板、路径面板中，路径在路径面板中。</strong></p><h3 id="本节PDF文档下载"><a href="#本节PDF文档下载" class="headerlink" title="本节PDF文档下载"></a>本节PDF文档下载</h3><p><a href="/Doc/PS-2.pdf">Download</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Photoshop教程二&quot;&gt;&lt;a href=&quot;#Photoshop教程二&quot; class=&quot;headerlink&quot; title=&quot;Photoshop教程二&quot;&gt;&lt;/a&gt;Photoshop教程二&lt;/h1&gt;&lt;h2 id=&quot;导语&quot;&gt;&lt;a href=&quot;#导语&quot; class=&quot;headerlink&quot; title=&quot;导语&quot;&gt;&lt;/a&gt;导语&lt;/h2&gt;&lt;p&gt;本节课继续讲述__图层__的介绍和有关功能。其中，混合选项中不同的图层样式可用来做特效字，图层的混合模式让不同图层的组合有了新的呈现……这些功能平时使用频繁，大家多加练习就能掌握。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="PS教程" scheme="http://Marve1ous.cn/tags/PS%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Photoshop-1</title>
+    <link href="http://Marve1ous.cn/2017/10/01/ps-1/"/>
+    <id>http://Marve1ous.cn/2017/10/01/ps-1/</id>
+    <published>2017-10-01T14:37:19.000Z</published>
+    <updated>2018-04-22T01:55:04.142Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Photoshop教程一"><a href="#Photoshop教程一" class="headerlink" title="Photoshop教程一"></a>Photoshop教程一</h1><h2 id="课程介绍"><a href="#课程介绍" class="headerlink" title="课程介绍"></a>课程介绍</h2><ol><li>由于本人正在钻研中，许多地方仍在探索，能力不足望见谅。</li><li>课前在群内发布干货Word文件，熟悉本节课内容，并记忆快捷键。</li><li>课堂上以Word内容为主轴，结合具体图片操作。</li><li>每次课程为知识点加工具介绍，二者综合。</li><li>实现一个目的有多种路径，我尽量提供最便捷的方法，但不一定最适合你。</li><li>本课程结合了其他教程，侵改。</li><li>我每周努力地码字，大家要珍惜劳动成果！<a id="more"></a><h3 id="课下如何学习PS"><a href="#课下如何学习PS" class="headerlink" title="课下如何学习PS?"></a>课下如何学习PS?</h3></li><li>正如教科书之于辅导书，先去官网（<a href="https://helpx.adobe.com/cn/photoshop/user-guide.html）自学再参考各种教程，不过官网语言略生涩，全是干货。" target="_blank" rel="noopener">https://helpx.adobe.com/cn/photoshop/user-guide.html）自学再参考各种教程，不过官网语言略生涩，全是干货。</a><br><img src="/IMG/ps1/1.png" alt="image-1"></li><li>许多教程默认你有基础，所以没有基础看教程很吃力，经常会跳步骤或者不说明快捷键操作。</li><li>不要一来就学合成、临摹大神之做等炫酷操作，坚持不下来很容易半途而废。</li><li>学了自己一定要亲自动手做。</li><li>熟练使用快捷键方能感受ps的美，记忆快捷键要求方法，肯定从常用记起，用久了就熟了。<br>拓展：图片素材网站<br>花瓣网——里面有一些设计好了的海报可以激发灵感<br>千库网——免扣素材很多，每天有两张免费免扣的素材，开会员也挺便宜<br>红动中国网<br>站长素材网<br>我图网<br>昵图网<br>学习网站：<br>doyoudo.com<br>B站<br>知乎<h3 id="了解Adobe-Photoshop"><a href="#了解Adobe-Photoshop" class="headerlink" title="了解Adobe Photoshop"></a>了解Adobe Photoshop</h3>自己谷歌</li></ol><h3 id="了解常用术语"><a href="#了解常用术语" class="headerlink" title="了解常用术语"></a>了解常用术语</h3><p>图像：矢量图（AI、ID）、位图（PS）<br>分辨率：图像分辨率（72ppi：图像中每英寸包含72个像素）、显示器分辨率（72dpi：显示器中每英寸包含72个像素）<br>常用分辨率：【网络显示、A0海报 72ppi】【印刷品 300ppi】<br>常用文稿大小：A4【8开】（210*297mm）、A0【通常海报大小】（841*1189mm）<br>格式：<br>Psd（photoshop documents）：PS专有的位图格式，可另存为GRB、CMYK等色彩模式图片，可保存通道、图层、路径等信息，便于修改<br>Jpg（jpge）：使用最多、应用最广的图片格式，可控制压缩比例；多次压缩性能降低叠加<br>Png（portable network graphic可移植网络图像）：体积小、索引彩色模式、网络传播更便捷（允许连续读出和写入图像，适用于通讯中生成和显示图像）、背景可透明<br>Gif（graphics interchange format图像交互格式）：存储为web和设备所用格式，动画，色彩没有jpg丰富<br>Bmp：Windows图片格式，无压缩<br>Tiff（tif）：非常灵活，综合上述</p><h3 id="PS应用"><a href="#PS应用" class="headerlink" title="PS应用"></a>PS应用</h3><ol><li>海报招贴设计</li><li>杂志广告</li><li>产品包装</li><li>书籍装帧</li><li>网页和界面</li><li>插画</li><li>摄影<br> <strong>注意：ps为图片处理软件，不适合排版，大多数排版软件不支持psd格式</strong></li></ol><h3 id="七大工作界面"><a href="#七大工作界面" class="headerlink" title="七大工作界面"></a>七大工作界面</h3><p>应用程序栏：预设设计、绘画、摄影工作区<br>菜单栏<br>属性栏<br>工作区<br>状态栏<br>工具箱<br>面板</p><h3 id="工具介绍（略）"><a href="#工具介绍（略）" class="headerlink" title="工具介绍（略）"></a>工具介绍（略）</h3><p><strong>相同快捷键下的工具按Shift切换</strong><br>文字 T<br>画笔 B<br>移动 V<br>选区 M<br>魔棒 W<br>套索 L<br>填充 G<br>钢笔 P<br>橡皮 E<br>图形 U<br>修复画笔 J<br>裁剪 C<br>仿制图章 S<br>涂抹<br>减淡／增强 O<br>抓手 Space<br>放大／缩小 Ctrl+【+】/+【-】<br>历史记录 Y<br>吸管 I<br>切换前景色与背景色 X<br>前景色、背景色恢复到黑白 D</p><h3 id="辅助工具的运用"><a href="#辅助工具的运用" class="headerlink" title="辅助工具的运用"></a>辅助工具的运用</h3><p><strong>作用：定位图像，便于作图</strong> | <strong>Ctrl+H隐藏/显示辅助线（包括蚂蚁线）</strong><br>标尺 Ctrl+R：移动工具（V）下，从标尺中拖动出__参考线__，可切换水平竖直参考线（按住Alt）<br>网格 Ctrl+”：若设置网格间距、样式、颜色等，按住Ctrl+K，调出首选项</p><h3 id="文件管理"><a href="#文件管理" class="headerlink" title="文件管理"></a>文件管理</h3><p>新建与关闭文件 Ctrl+N/Ctrl+W：在新建面板中设置参数确定后即可获得画板<br>打开文件 Ctrl+O<br>置入图像：【文件】——【置入】，或直接拖入<br><strong>切换多个文件 Ctrl+Tab</strong><br>保存与另存为文件 Ctrl+S/Shift+Ctrl+S</p><h3 id="图像的恢复操作"><a href="#图像的恢复操作" class="headerlink" title="图像的恢复操作"></a>图像的恢复操作</h3><ol><li>撤销 Ctrl+Alt+Z</li><li>恢复 Ctrl+Shift+Z</li><li>历史记录面板：点击即回到彼时状态</li></ol><h3 id="工具——文字工具（T）"><a href="#工具——文字工具（T）" class="headerlink" title="工具——文字工具（T）"></a>工具——文字工具（T）</h3><p><img src="/IMG/ps1/2.png" alt="image-2"></p><ol><li>字体安装</li><li>了解属性栏<br><img src="/IMG/ps1/3.png" alt="image-3"></li><li>调出【字符】／【段落】面板<br><img src="/IMG/ps1/4.png" alt="image-4"></li></ol><p>确认编辑 Ctrl+Enter<br>调整大小 Ctrl+T<br>按住Shift缩放，即等比例确定方向缩放<br>按住Shift+Alt缩放，即等比例中心缩放<br>复制文字 按住Alt拖动</p><h3 id="图层（一）"><a href="#图层（一）" class="headerlink" title="图层（一）"></a>图层（一）</h3><p>互不干扰，分工思维，类似于几张玻璃纸重合<br>明白图层的上下关系</p><h3 id="本节PDF文档下载"><a href="#本节PDF文档下载" class="headerlink" title="本节PDF文档下载"></a>本节PDF文档下载</h3><p><a href="/Doc/PS-1.PDF">Download</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Photoshop教程一&quot;&gt;&lt;a href=&quot;#Photoshop教程一&quot; class=&quot;headerlink&quot; title=&quot;Photoshop教程一&quot;&gt;&lt;/a&gt;Photoshop教程一&lt;/h1&gt;&lt;h2 id=&quot;课程介绍&quot;&gt;&lt;a href=&quot;#课程介绍&quot; class=&quot;headerlink&quot; title=&quot;课程介绍&quot;&gt;&lt;/a&gt;课程介绍&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;由于本人正在钻研中，许多地方仍在探索，能力不足望见谅。&lt;/li&gt;
+&lt;li&gt;课前在群内发布干货Word文件，熟悉本节课内容，并记忆快捷键。&lt;/li&gt;
+&lt;li&gt;课堂上以Word内容为主轴，结合具体图片操作。&lt;/li&gt;
+&lt;li&gt;每次课程为知识点加工具介绍，二者综合。&lt;/li&gt;
+&lt;li&gt;实现一个目的有多种路径，我尽量提供最便捷的方法，但不一定最适合你。&lt;/li&gt;
+&lt;li&gt;本课程结合了其他教程，侵改。&lt;/li&gt;
+&lt;li&gt;我每周努力地码字，大家要珍惜劳动成果！
+    
+    </summary>
+    
+      <category term="First Step" scheme="http://Marve1ous.cn/categories/First-Step/"/>
+    
+    
+      <category term="PS教程" scheme="http://Marve1ous.cn/tags/PS%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的愿望是世界和平</title>
+    <link href="http://Marve1ous.cn/2017/07/09/peace/"/>
+    <id>http://Marve1ous.cn/2017/07/09/peace/</id>
+    <published>2017-07-08T23:52:18.000Z</published>
+    <updated>2018-04-22T03:22:25.369Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="7-11-科目三考试-天气：晴-心情：紧张、激动"><a href="#7-11-科目三考试-天气：晴-心情：紧张、激动" class="headerlink" title="7-11 科目三考试 天气：晴 心情：紧张、激动"></a>7-11 科目三考试 天气：晴 心情：紧张、激动</h2><a id="more"></a><h3 id="考试的前一天晚上"><a href="#考试的前一天晚上" class="headerlink" title="考试的前一天晚上"></a>考试的前一天晚上</h3><p>躺在床上辗转反侧，紧张的睡不着觉，外加上平时练车的懈怠，心跳加速，慌慌张张，直到大半夜才睡着。</p><h3 id="考试当天"><a href="#考试当天" class="headerlink" title="考试当天"></a>考试当天</h3><p>大清早就起床了，睡眠有点不足，打车到达考场，漫长的队伍渐渐使我变得不耐烦了，心态略微小崩。在后靠大厅等候多时，终于，轮到了自己，然而，自己又是最后一个考试的，大约一个小时之后，前面三个人挂掉了两个，我的心情也贼复杂(你懂的^_^!)。</p><h3 id="考试正式开始"><a href="#考试正式开始" class="headerlink" title="考试正式开始"></a>考试正式开始</h3><p>一切像平常一样井然有序的进行着。加速、超车，语音提示叽叽喳喳的播报着，这个时候，几名建筑工人用绳子把宽敞的道路封了起来，我一脚刹车把车停了下来，可是语音播报：考试结束，成绩不合格，请准备补考。心态彻底崩溃。补考也是噩梦的开始，车还没走起来就熄火了，而且连续熄火两次，游戏结束！ </p><p></p><h1 style="color: orange">Mission Failed</h1><br><p></p><p>ps：这次考试，还没开始就已经结束了，或许注定就是以失败告终的。堕落就此开始。。。</p><h2 id="8-03-科目三补考-天气：晴-心情：平静"><a href="#8-03-科目三补考-天气：晴-心情：平静" class="headerlink" title="8-03 科目三补考 天气：晴 心情：平静"></a>8-03 科目三补考 天气：晴 心情：平静</h2><h3 id="考试的前一天晚上-1"><a href="#考试的前一天晚上-1" class="headerlink" title="考试的前一天晚上"></a>考试的前一天晚上</h3><p>到了离考场近的表姐家住了一晚，晚上吃了火辣的串串香和很多牛肉为第二天的考试加油打气，正准备睡觉，肚子开始疼了起来，匆匆忙忙赶往厕所。</p><h3 id="考试当天-1"><a href="#考试当天-1" class="headerlink" title="考试当天"></a>考试当天</h3><p>又是起来拉肚子，吃完丰盛的早餐准备出发，肚子又隐隐作痛，再次奔赴厕所，10分钟之后，我出发了。到了考场，等候的人数像往常一样的多，肚子又又爆炸了，买了包纸巾，往厕所赶去。。。漫长的等待，这次我居然又是在这个车的最后一个考试（没关系等吧），又过了很长一段时间，轮到我上场了，这一次，我小心翼翼地注视着周围，万事顺利，到了最后的关头，没想到，为了能过一个路口，忘记了减速，挂掉了。这次教训我烂熟于心，为了避免自己再次犯错，在补考的时候，我时时刻刻的减速，过五关斩六将，通过了考试！终于松了一口气，不容易啊。<br>ps：补考面对教练也是有点尴尬，教练这么认真负责，自己却不争气。过了就是一件好事啊，准备科目四的考试了，离拿驾照的时间不远了，hhh。<br><br></p><h2 id="总结："><a href="#总结：" class="headerlink" title="总结："></a>总结：</h2><p><center><h1 style="color:red">沉着冷静，不慌不忙</h1></center><br> <br></p><h2 id="8-15-科目四考试-天气：晴-心情：高兴"><a href="#8-15-科目四考试-天气：晴-心情：高兴" class="headerlink" title="8-15 科目四考试 天气：晴 心情：高兴"></a>8-15 科目四考试 天气：晴 心情：高兴</h2><h3 id="出乎意料"><a href="#出乎意料" class="headerlink" title="出乎意料"></a>出乎意料</h3><p>当我来到候考大厅的时候，把资料交给考官审核，结果驾驶证的工本费忘记了缴纳，又得去缴费，真正令人惊奇的是缴纳的方式只支持网银（QAQ！），我木有网银。局面陷入尴尬，经过一系列的折腾后，终于找到了一位好心人帮我缴纳了费用，😄。</p><h3 id="简简单单的考试"><a href="#简简单单的考试" class="headerlink" title="简简单单的考试"></a>简简单单的考试</h3><p>三下五除二，噼里啪啦鼠标一阵狂点，最终成绩98分，(=^ェ^=)。     ==><font style="color: purple">我已经是一名合格的司机了</font><br>ps:邮寄驾驶证的时候地址填到了对面一户人家。(意不意外？惊不惊喜？)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;7-11-科目三考试-天气：晴-心情：紧张、激动&quot;&gt;&lt;a href=&quot;#7-11-科目三考试-天气：晴-心情：紧张、激动&quot; class=&quot;headerlink&quot; title=&quot;7-11 科目三考试 天气：晴 心情：紧张、激动&quot;&gt;&lt;/a&gt;7-11 科目三考试 天气：晴 心情：紧张、激动&lt;/h2&gt;
+    
+    </summary>
+    
+    
+      <category term="安定" scheme="http://Marve1ous.cn/tags/%E5%AE%89%E5%AE%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MC服务器搭建</title>
+    <link href="http://Marve1ous.cn/2017/07/01/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/"/>
+    <id>http://Marve1ous.cn/2017/07/01/MC服务器搭建/</id>
+    <published>2017-07-01T14:24:35.000Z</published>
+    <updated>2018-04-22T02:35:54.226Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-购买服务器-已有的请忽略"><a href="#1-购买服务器-已有的请忽略" class="headerlink" title="1.购买服务器(已有的请忽略)"></a>1.购买服务器(已有的请忽略)</h2><p>我购买的是腾讯云</p><p>接下来就请自行查阅百度——putty,ftp软件 以便后面的使用<br>熟悉自己的ip和root账号密码.<br><a id="more"></a></p><h2 id="2-接下里就重点了-个人总结的mc服务器地点"><a href="#2-接下里就重点了-个人总结的mc服务器地点" class="headerlink" title="2.接下里就重点了(个人总结的mc服务器地点)"></a>2.接下里就重点了(个人总结的mc服务器地点)</h2><p>mc服务器下载地点:</p><p><a herf="https://mcversions.net/">https://mcversions.net/</a><br><br><br><a href="https://files.minecraftforge.net/" target="_blank" rel="noopener">https://files.minecraftforge.net/</a><br><br>第一个网站是原生的，请自行选择自己的版本<br><br>第二个网站是forge版，请自行选择自己的版本。—ps:forge的安装后含原生版本(23333…)</p><h2 id="3-在本地配置mc-server"><a href="#3-在本地配置mc-server" class="headerlink" title="3.在本地配置mc-server"></a>3.在本地配置mc-server</h2><p>打开下载好的服务器文件</p><p>若是forge版的，请选择install server</p><p>无论如何设置路径都是红色的哦，所以不需要管…</p><p>那么，接下来,它会自动生成一堆文件</p><p>找到<font style="font-size:30px;color:red"> eula.txt</font>文件，然后把其中的false改为true</p><p>重新打开服务器文件,一件神奇的事情发生了,又多了一些文件</p><p>找到<font style="font-size:30px;color:red"> <font style="font-size:30px;color:red"> server.properties</font></font>文件,把online-mode=true改为flase，这样盗版玩家就可以乱入了</p><p>再次打开服务器文件,正常运行p(^_^)q！</p><h2 id="4-上传本地服务器"><a href="#4-上传本地服务器" class="headerlink" title="4.上传本地服务器"></a>4.上传本地服务器</h2><p>登陆ftp进入根目录</p><p>在/home 中上传你的mc文件(需要用到ftp软件—sftp登陆,账号就是root，密码就是root的密码)</p><p>putty中输入<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">yum install screen</span><br><span class="line">yum install java</span><br></pre></td></tr></table></figure></p><p>配置+运行<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">cd /home/mcserver //把mc服务器文件夹命名为mcserver吧</span><br><span class="line">screen -S server //切换窗口</span><br><span class="line">java -Xmx1024M -Xms1024M -jar /home/mcserver/(服务器名称).jar nogui </span><br><span class="line">//启动服务器 最大内存1024M 最小内存1024M nogui无图形界面(可以降低服务器负载)</span><br><span class="line">stop 停止运行</span><br><span class="line">screen -r server 退出putty之后,返回这个窗口</span><br></pre></td></tr></table></figure></p><h2 id="5-Have-Fun"><a href="#5-Have-Fun" class="headerlink" title="5.Have Fun!"></a>5.Have Fun!</h2><p>累死了,就写了一点点,写不齐全(懒癌QAQ…),可能错误多，没办法.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;1-购买服务器-已有的请忽略&quot;&gt;&lt;a href=&quot;#1-购买服务器-已有的请忽略&quot; class=&quot;headerlink&quot; title=&quot;1.购买服务器(已有的请忽略)&quot;&gt;&lt;/a&gt;1.购买服务器(已有的请忽略)&lt;/h2&gt;&lt;p&gt;我购买的是腾讯云&lt;/p&gt;
+&lt;p&gt;接下来就请自行查阅百度——putty,ftp软件 以便后面的使用&lt;br&gt;熟悉自己的ip和root账号密码.&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Minecraft" scheme="http://Marve1ous.cn/tags/Minecraft/"/>
+    
+  </entry>
+  
+</feed>
