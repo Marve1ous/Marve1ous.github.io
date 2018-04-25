@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://marve1ous.cn/"/>
-  <updated>2018-04-22T03:26:33.938Z</updated>
+  <updated>2018-04-25T04:47:02.000Z</updated>
   <id>http://marve1ous.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>plotinpycharm</title>
+    <link href="http://marve1ous.cn/2018/04/25/plotinpycharm/"/>
+    <id>http://marve1ous.cn/2018/04/25/plotinpycharm/</id>
+    <published>2018-04-25T04:04:35.000Z</published>
+    <updated>2018-04-25T04:47:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Plots-in-Pycharm"><a href="#Plots-in-Pycharm" class="headerlink" title="Plots in Pycharm"></a>Plots in Pycharm</h1><p><img src="/IMG/x.png" alt="Pycharm"><br><a href="http://www.jetbrains.com/help/pycharm/matplotlib-support.html" target="_blank" rel="noopener">参考链接</a> <a href="http://www.jetbrains.com/help/pycharm/matplotlib-support.html" target="_blank" rel="noopener">http://www.jetbrains.com/help/pycharm/matplotlib-support.html</a></p><p>在学习cv2和matplotlib的时候，我们往往通过代码来打开某一张图片。我们会用到plot.show(),但是有时候这个函数的执行没有任何反应,实际上它新建了一个窗口我们需要点击屏幕下方的图标才能看到.并且这个窗口会阻塞程序的运行,这让我们非常的头疼,但是我们可以通过Pycharm使它输出到编辑器窗口，而不是新建一个窗口。<br><a id="more"></a><br>首先打开Pycharm</p><h2 id="点击View-勾选Scientific-Mode"><a href="#点击View-勾选Scientific-Mode" class="headerlink" title="点击View 勾选Scientific Mode"></a>点击View 勾选Scientific Mode</h2><p><img src="a.png" alt="Scientific Mode"></p><h2 id="打开设置-在Tools找到-Python-Scientific-勾选show-plots-in-tool-window"><a href="#打开设置-在Tools找到-Python-Scientific-勾选show-plots-in-tool-window" class="headerlink" title="打开设置 在Tools找到 Python Scientific 勾选show plots in tool window"></a>打开设置 在Tools找到 Python Scientific 勾选show plots in tool window</h2><p><img src="d.png" alt="Tools"></p><h2 id="测试代码"><a href="#测试代码" class="headerlink" title="测试代码"></a>测试代码</h2><p><img src="c.png" alt="code"><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">import numpy as np</span><br><span class="line">from matplotlib import pyplot as plt</span><br><span class="line"></span><br><span class="line">x = np.arange(0, 5, 0.1)</span><br><span class="line">y = np.sin(x)</span><br><span class="line">plt.plot(x, y)</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure></p><p>成功！</p><h2 id="如果你想显示上图中的documentation，点击view，勾选quick-documentation"><a href="#如果你想显示上图中的documentation，点击view，勾选quick-documentation" class="headerlink" title="如果你想显示上图中的documentation，点击view，勾选quick documentation"></a>如果你想显示上图中的documentation，点击view，勾选quick documentation</h2><p><img src="b.png" alt="documentation"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Plots-in-Pycharm&quot;&gt;&lt;a href=&quot;#Plots-in-Pycharm&quot; class=&quot;headerlink&quot; title=&quot;Plots in Pycharm&quot;&gt;&lt;/a&gt;Plots in Pycharm&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/IMG/x.png&quot; alt=&quot;Pycharm&quot;&gt;&lt;br&gt;&lt;a href=&quot;http://www.jetbrains.com/help/pycharm/matplotlib-support.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;参考链接&lt;/a&gt; &lt;a href=&quot;http://www.jetbrains.com/help/pycharm/matplotlib-support.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.jetbrains.com/help/pycharm/matplotlib-support.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在学习cv2和matplotlib的时候，我们往往通过代码来打开某一张图片。我们会用到plot.show(),但是有时候这个函数的执行没有任何反应,实际上它新建了一个窗口我们需要点击屏幕下方的图标才能看到.并且这个窗口会阻塞程序的运行,这让我们非常的头疼,但是我们可以通过Pycharm使它输出到编辑器窗口，而不是新建一个窗口。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://marve1ous.cn/categories/Python/"/>
+    
+      <category term="IDE" scheme="http://marve1ous.cn/categories/Python/IDE/"/>
+    
+    
+      <category term="Matplotlib" scheme="http://marve1ous.cn/tags/Matplotlib/"/>
+    
+      <category term="Python" scheme="http://marve1ous.cn/tags/Python/"/>
+    
+  </entry>
   
   <entry>
     <title>happynewyear</title>
